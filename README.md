@@ -1,4 +1,4 @@
-#About the project:
+# About the project:
 Spring security checks if the entered user is in database
 
 If there is, the the liks become available:
